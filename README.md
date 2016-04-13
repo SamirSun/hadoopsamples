@@ -9,6 +9,13 @@
 ### MySQL
 <dependency>
   <groupId>org.apache.hadoop</groupId>
-	<artifactId>hadoop-common</artifactId>
+  <artifactId>hadoop-common</artifactId>
   <version>2.7.1</version>
 </dependency>
+### MongoDB
+<dependency>
+	<groupId>org.mongodb.mongo-hadoop</groupId>
+	<artifactId>mongo-hadoop-core</artifactId>
+	<version>1.4.0</version>
+</dependency>
+
