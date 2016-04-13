@@ -1,12 +1,12 @@
-# hadoopsamples
+# HadoopSamples
 
-## Elasticsearch
+### Elasticsearch
 <dependency>
 	<groupId>org.elasticsearch</groupId>
 	<artifactId>elasticsearch-hadoop-mr</artifactId>
 	<version>2.1.2</version>
 </dependency>
-## MySQL
+### MySQL
 <dependency>
   <groupId>org.apache.hadoop</groupId>
 	<artifactId>hadoop-common</artifactId>
